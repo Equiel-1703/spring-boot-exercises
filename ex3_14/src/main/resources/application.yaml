@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: ex3_14
+
+mail-server:
+  url: smtp.gmail.com
+  protocol: smtp
+  port: 587
